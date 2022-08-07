@@ -1,0 +1,52 @@
+﻿  SMFL_Clicker.cpp
+C:\Users\Felipe\source\repos\SMFL_Clicker\SMFL_Clicker\MainButton.h(20,36): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+C:\Users\Felipe\source\repos\SMFL_Clicker\SMFL_Clicker\MainButton.h(20,30): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+C:\Users\Felipe\source\repos\SMFL_Clicker\SMFL_Clicker\MainButton.h(29,38): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+C:\Users\Felipe\source\repos\SMFL_Clicker\SMFL_Clicker\MainButton.h(29,29): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+C:\Users\Felipe\source\repos\SMFL_Clicker\SMFL_Clicker\MainButton.h(37,22): warning C4244: 'inicializando': conversão de 'const T' para 'unsigned short', possível perda de dados
+          with
+          [
+              T=float
+          ]
+C:\Users\Felipe\source\repos\SMFL_Clicker\SMFL_Clicker\MainButton.h(38,22): warning C4244: 'inicializando': conversão de 'const T' para 'unsigned short', possível perda de dados
+          with
+          [
+              T=float
+          ]
+C:\Users\Felipe\source\repos\SMFL_Clicker\SMFL_Clicker\MainButton.h(40,23): warning C4244: 'inicializando': conversão de 'const T' para 'unsigned short', possível perda de dados
+          with
+          [
+              T=float
+          ]
+C:\Users\Felipe\source\repos\SMFL_Clicker\SMFL_Clicker\MainButton.h(41,23): warning C4244: 'inicializando': conversão de 'const T' para 'unsigned short', possível perda de dados
+          with
+          [
+              T=float
+          ]
+C:\Users\Felipe\source\repos\SMFL_Clicker\SMFL_Clicker\Dinheiro.h(19,31): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+C:\Users\Felipe\source\repos\SMFL_Clicker\SMFL_Clicker\Dinheiro.h(19,25): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+C:\Users\Felipe\source\repos\SMFL_Clicker\SMFL_Clicker\Upfuncionario.h(16,26): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+C:\Users\Felipe\source\repos\SMFL_Clicker\SMFL_Clicker\Upfuncionario.h(16,20): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+C:\Users\Felipe\source\repos\SMFL_Clicker\SMFL_Clicker\Upfuncionario.h(25,29): warning C4244: 'inicializando': conversão de 'const T' para 'unsigned short', possível perda de dados
+          with
+          [
+              T=float
+          ]
+C:\Users\Felipe\source\repos\SMFL_Clicker\SMFL_Clicker\Upfuncionario.h(26,29): warning C4244: 'inicializando': conversão de 'const T' para 'unsigned short', possível perda de dados
+          with
+          [
+              T=float
+          ]
+C:\Users\Felipe\source\repos\SMFL_Clicker\SMFL_Clicker\Upfuncionario.h(28,30): warning C4244: 'inicializando': conversão de 'const T' para 'unsigned short', possível perda de dados
+          with
+          [
+              T=float
+          ]
+C:\Users\Felipe\source\repos\SMFL_Clicker\SMFL_Clicker\Upfuncionario.h(29,30): warning C4244: 'inicializando': conversão de 'const T' para 'unsigned short', possível perda de dados
+          with
+          [
+              T=float
+          ]
+C:\Users\Felipe\source\repos\SMFL_Clicker\SMFL_Clicker\SMFL_Clicker.cpp(9,27): warning C4244: 'argumento': conversão de 'float' para 'unsigned int', possível perda de dados
+C:\Users\Felipe\source\repos\SMFL_Clicker\SMFL_Clicker\MainButton.h(76): warning C4715: 'mainButton::click': nem todos os caminhos de controle retornam um valor
+  SMFL_Clicker.vcxproj -> C:\Users\Felipe\source\repos\SMFL_Clicker\x64\Debug\SMFL_Clicker.exe
